@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, I'm Harini! 👋
 
-<!--
-**harini275/harini275** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 📊 **Data Scientist & Analyst** passionate about turning data into actionable insights  
+- 🎓 Completed Master's in Computer Science 
+- 🛠️ Skilled in **Python**, **SQL**, **Power BI**, **Excel**, **Machine Learning**, and **Deep Learning**  
+- 📈 Experienced in data analysis, ETL, and building interactive dashboards  
+- 🤝 Strong collaborator with a focus on data-driven decision making  
+- 🏅 Certified in Python for Data Science, SQL, Power BI, and AI Data Science  
+- 🌱 Always learning and exploring new trends in analytics
 
-Here are some ideas to get you started:
+🔗 [LinkedIn](https://www.linkedin.com/in/harini-muthaiah-harinimuthaiah27) | [GitHub](https://github.com/harini275)  
+📧 harinikavi27@gmail.com | 📍 Perambalur, Tamil Nadu
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- GitHub Stats -->
+![Harini's github stats](https://github-readme-stats.vercel.app/api?username=harini275&show_icons=true&theme=vertical)
