@@ -1,4 +1,5 @@
 # Hi, I'm Harini! 👋
+## Data Scientist
 <br>📊 Data Scientist & Analyst passionate about turning data into actionable insights<br>🎓 Completed Master's in Computer Science<br>🛠️ Skilled in Python, SQL, Power BI, Excel, Machine Learning, and Deep Learning<br>📈 Experienced in data analysis, ETL, and building interactive dashboards<br>🤝 Strong collaborator with a focus on data-driven decision making<br>🏅 Certified in Python for Data Science, SQL, Power BI, and AI Data Science<br>🌱 Always learning and exploring new trends in analytics
 
 
