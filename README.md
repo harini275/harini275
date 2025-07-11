@@ -19,7 +19,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=harini275&theme=gruvbox-light&no-frame=false&no-bg=true&margin-w=4&exclude=joined)
 
----
+----
 [![](https://visitcount.itsvg.in/api?id=harini275&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
